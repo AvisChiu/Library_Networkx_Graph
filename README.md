@@ -9,4 +9,4 @@ https://networkx.github.io/documentation/stable/tutorial.html
 https://networkx.github.io/documentation/stable/auto_examples/basic/plot_read_write.html#sphx-glr-download-auto-examples-basic-plot-read-write-py
 
 
-<img src="https://github.com/AvisChiu/Networkx_Graph/blob/algorithm/compare/pic.png"  width="500" height="400">
+<img src="https://github.com/AvisChiu/Networkx_Graph/blob/master/algorithm/compare/pic.PNG"  width="500" height="400">
