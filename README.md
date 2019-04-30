@@ -11,5 +11,6 @@ Networkx Documentation
 https://networkx.github.io/documentation/stable/tutorial.html
 
 A Simple Report of Shortest Path (Comparsion of A*, Dijkstra, Q-Learing)   
-https://github.com/AvisChiu/Networkx_Graph/blob/master/algorithm/compare/report.pdf
+https://github.com/AvisChiu/Networkx_Graph/blob/master/algorithm/compare/report.pdf   
+https://github.com/AvisChiu/Networkx_Graph/blob/master/algorithm/compare/report-2.pdf
 
